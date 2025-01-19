@@ -1,0 +1,22 @@
+style
+.xx-small{
+    font: size 8pt;
+}
+.x-small{
+    font: size 10pt;
+}
+.x-large{
+    font: size 15pt;
+}
+.xx-large{
+    font: size 20pt;
+}
+.small{
+    font: size 11pt;
+}
+.large{
+    font: size 14pt;
+}
+.medium{
+    font: size 13pt;
+}
